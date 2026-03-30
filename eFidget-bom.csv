@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Through Hole Resistors","For the LEDS",10,0.22,"https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT110R/1741570","Digikey"
+"Battery Compartment","To hold the batteries",1,1.77,"https://www.digikey.com/en/products/detail/keystone-electronics/2465/303814","Digikey"
+"Tax","I have to pay this",1,2.18,"","Digikey"
+"Tarrifs","Worse version of tax (quantity means 2 products I have tax on)",2,0.72,"","Digikey"
+"LED RED 5MM","Lights up",7,1.05,"https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012","Digikey"
+"MX SWITCH 12V","Switch to trigger actions",4,5.00,"https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-C1NW/280855","Digikey"
+"BLACK KEYCAPS","Keycaps for the MX switches",1,5.95,"https://www.digikey.com/en/products/detail/adafruit-industries-llc/4997/14552180","Digikey"
+"XIAO RP2040","MC, controls everything",1,4.68,"https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010428/14672129","Digikey"
+"Shipping","Move these parts!",1,10.29,"","JLCPCB, Digikey"
+"PCB","For connection!",1,2.00,"","JLCPCB"
