@@ -19,9 +19,11 @@ I made this project as an intro into PCB's, circuits and soldering because it's 
 | MX SWITCH 12V | Switch to trigger actions | 4 | $5.00 | Digikey | [Buy](https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-C1NW/280855) |
 | BLACK KEYCAPS | Keycaps for the MX switches | 1 | $5.95 | Digikey | [Buy](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4997/14552180) |
 | Battery Compartment | To hold the batteries | 1 | $1.77 | Digikey | [Buy](https://www.digikey.com/en/products/detail/keystone-electronics/2465/303814) |
+| Connectors | To provide a place for the red and black wires to hook onto | 10 | $0.29 | Digikey | [Buy](https://www.digikey.com/en/products/detail/adam-tech/PH1-01-UA/9830231) |
+| Diode | To prevent reverse current flow | 1 | $0.18 | Digikey | [Buy](https://www.digikey.com/en/products/detail/smc-diode-solutions/1N5817/21705460) |
 | PCB | For connection | 1 | $2.00 | JLCPCB | N/A |
 | Shipping | Move these parts | 1 | $10.29 | JLCPCB, Digikey | N/A |
-| Tax | I have to pay | 1 | $2.18 | Digikey | N/A |
-| Tariffs | Quantity means 2 products I have tarrifs on | 2 | $0.72 | Digikey | N/A |
-| **Total** | | | *$33.86* | | |
+| Tax | I have to pay | 1 | $2.22 | Digikey | N/A |
+| Tariffs | Quantity means 5 products I have tax on | 5 | $0.79 | Digikey | N/A |
+| **Total** | | | *$34.44* | | |
 
