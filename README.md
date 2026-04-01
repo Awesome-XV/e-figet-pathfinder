@@ -1,12 +1,12 @@
 # e-figet-pathfinder
 This is a project that allows you to play around with switches and LED's. It's a reaction game ... for now, I am planning to make a settings/page button that allows you to play different game modes and stuff. But now it's geared toward an *F1* style gameplay where the LED's close in on the center light and then they all go blank and it measures the time for you to let go of the "clutch" and hit the "accelerator". Maybe different racing types later??
-I made this project as an intro into PCB's, circuits and soldering because it's my first physical project that I have done. I wanted to get into the hardware project and there was a nice guide, but no soldering guide so I get to do that on my own. So this is a bit later, and I added a battery compartment to it, it's now a mobile device and it doesn't have to be plugged in. I also am now planning to add a GT practice shifter to the code where you can practice shifting GT style.
+I made this project as an intro into PCB's, circuits and soldering because it's my first physical project that I have done. I wanted to get into the hardware project and there was a nice guide, but no soldering guide so I get to do that on my own. So this is a bit later, and I added a battery compartment to it, it's now a mobile device and it doesn't have to be plugged in. I also am now planning to add a GT practice shifter to the code where you can practice shifting GT style. I also had to add 2 connectors so that I can solder the battery wires correctly.
 
 # Some Pics
-<img width="2362" height="1377" alt="eFidget" src="https://github.com/user-attachments/assets/ca312ac3-5c5e-4eec-aa61-a1695c8b89b5" />
-<img width="1260" height="774" alt="image" src="https://github.com/user-attachments/assets/8ddf0273-d7d5-45c7-aaa7-efaa1ce420b3" />
-<img width="1698" height="781" alt="image" src="https://github.com/user-attachments/assets/4367740a-5229-4546-ac3b-bb26a926bc82" />
-<img width="1494" height="686" alt="image" src="https://github.com/user-attachments/assets/418a99df-743d-4dba-8887-59bdb1c45122" />
+<img width="2069" height="1161" alt="image" src="https://github.com/user-attachments/assets/aa1fc2e2-6f87-4499-a58e-abab74f30210" />
+<img width="1655" height="1048" alt="image" src="https://github.com/user-attachments/assets/a711dd60-a19f-4534-a924-a7cb50682ab1" />
+<img width="1895" height="864" alt="image" src="https://github.com/user-attachments/assets/df34f968-72f4-4653-a8ec-c3b5c0355483" />
+<img width="1137" height="517" alt="image" src="https://github.com/user-attachments/assets/21650ada-27b5-4bce-8805-cc9149a8c84e" />
 
 
 
